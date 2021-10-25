@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-Moon is a minimal, one column jekyll theme.</center>
+Moon is a minimal, one column jekyll theme.
 
 ## Features
 * Minimal, you can focus on your content
